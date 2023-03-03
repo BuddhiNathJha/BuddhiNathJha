@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript & React.js**
 
-- 📫 How to reach me **mailtobuddhijhajha@gmail.com**
+- 📫 How to reach me **mailtobuddhijha@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
