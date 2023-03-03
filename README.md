@@ -1,16 +1,14 @@
 ![MasterHead](https://www.toogit.com/uploads/ServicesAttachments/2020/10191118595409.png)
 <h1 align="center">Hi 👋, I'm Buddhi Nath Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://jayamwebsolutions.com/img/website.gif">
-
+<img align="right" alt="Coding" width="400" height="250"src="https://jayamwebsolutions.com/img/website.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhinathjha&label=Profile%20views&color=0e75b6&style=flat" alt="buddhinathjha" /> </p>
 
 - 🌱 I’m currently learning **Front End Development**
 
 - 💬 Ask me about **HTML, CSS, Javascript & React.js**
 
 - 📫 How to reach me **mailtobuddhijha@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
