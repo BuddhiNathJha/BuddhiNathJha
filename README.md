@@ -1,7 +1,7 @@
 ![MasterHead](https://www.toogit.com/uploads/ServicesAttachments/2020/10191118595409.png)
 <h1 align="center">Hi 👋, I'm Buddhi Nath Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" height="250" src="https://jayamwebsolutions.com/img/website.gif">
+<img align="right" alt="Coding" width="400" src="https://jayamwebsolutions.com/img/website.gif">
 
 
 - 🌱 I’m currently learning **Front End Development**
