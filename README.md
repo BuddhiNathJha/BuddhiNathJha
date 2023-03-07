@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGGtuD4V2jLBA/profile-displaybackgroundimage-shrink_350_1400/0/1678091184940?e=1683763200&v=beta&t=4tzaqaBp2qr87aLBZ6go3WNmWoUD-pdAPnyNJtSp2Vg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGMQ6fC5mX0ZA/profile-displaybackgroundimage-shrink_350_1400/0/1678094939709?e=1683763200&v=beta&t=E9h81RjV2QoaigEISdQ6odEPoStzycjg6dDf0gnij2w)
 <h1 align="center">Hi 👋, I'm Buddhi Nath Jha</h1>
 <h3 align="center">A passionate front end developer from India</h3>
 <img align="right" alt="Coding" width="400" height="250"src="https://jayamwebsolutions.com/img/website.gif">
